@@ -1,0 +1,8 @@
+# If the data is mutually exclusive, we will use K-Means Algorithm
+
+
+# Fuzzy C-Means Clustering
+Is there is data is inclusive cluster, we can use C-Means
+
+
+#Hierachial Clustering: You don't need to define cluster

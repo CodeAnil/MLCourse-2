@@ -1,0 +1,30 @@
+############################
+########Regression##########
+############################
+# Linear Regression########
+# Logistic Regression  -- Its a classification but its Regression. Classify using Sigmoid Line
+# Polynomial Regression
+
+https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/
+
+Where to apply Linear Regression?
+
+###Resources for Data Sets ####
+https://www.kaggle.com
+###########################
+############UCI:###########
+###########################
+
+# read problem
+# if out come is continuous
+# -- Its a regression
+
+#Then
+#auto correlation -- Time Series Analysis
+
+# Multi collinarity: For non time based Analysis
+# Normal Distribution of error terms
+
+#Hyper Parameter Training
+@any continuous data it should has to go to the regression
+@If you cannot fit lisnear regression use polynomial regression

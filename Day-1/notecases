@@ -1,0 +1,81 @@
+Skype ID: venkatesh772
+
+
+# Machine Learning - Spam email filter
+# Deep Learning  -- Auto replies in gmail
+# Neural Networks
+
+AI vs ML:
+
+Automation is part AI
+Solution is ML
+
+AI is SuperSet
+--> Model -->
+
+The process of marking as a spam is ML
+
+In ML -- you have to understand Data
+DL -- System will learn
+
+#there is no feature learning
+
+
+Supervised Learning: Trained AI Model
+Unsupervised learning: UnTrained AI Model
+Reinforce Learning: Agent will Decide( Agent have some special permissions like Manager)
+
+
+Self driven cars uses some of Reinforcement Learning
+
+
+#Applicatons:
+Bio Metrics
+#Behavioral bio metrics  is driven AI
+
+Pattens which test post login to mobile.
+
+
+Supervised Learning Algorithms:
+
+1. Linear Regression --
+Regression -- Previous Data
+
+Linear Regression:  is a technique to predict unknown variable(Dependent variable)
+from the known value of another variables( Independent Variable)
+
+y = mx+c
+
+Home price example
+Price vs Square Feet
+
+Dependent Variable: Price (Predicting unknown value)
+Independent variable: Square feet
+Regression Line:
+
+# if we have single dependent value, its fine
+# if we have multiple dependent values
+Age vs Immunity
+
+# Understand variables
+# talk with Domain Experts
+
+Libraries:
+
+# scikit Lib:
+# Pandas
+# numpy
+# seaborn
+# Matplot
+
+Pandas: Multi Dimensional
+# Outcome of Linear Regression: Continuous Variable
+
+
+#Trainer
+Need to give videos of Reinforcement Videos
+
+#Questoins to re-look
+Supervised vs Unsupervised Learning
+
+Train, Test, validation

@@ -1,0 +1,45 @@
+# Linear Regression
+# Logistic Regression
+# Polynomial Regression
+
+Logistic Regression is for binary classification for only..
+
+
+#Outcome = Binary
+
+#if you data is linear and out come should be binary (True or False) use Linear Regression.
+
+# how do you convert straight line to 0 or 1?
+
+#heat map
+to find relation between 2 independent variables: If those are highly impacting each other, remove one variable
+#it will increase your Model Accuracy
+
+#Durbin - Watson data-set is for auto correlation
+
+
+#########################
+# Define Thresholds
+#########################
+
+###################################################
+Why decison tree?
+When do we Random forest and Decision Tree?
+
+###################################################
+Why do we Random Forest and when we use Regression?
+
+###################################################
+Do you have cancer?
+Answer: yer or no #Logestic Regression
+###################################################
+
+###################################################
+Do you have which type of Cancer?
+3 types of Cancer, to choose one
+Answer: Decision Tree
+###################################################
+
+#Questoins to re-look
+Q. What is VIF?
+Q. What is Z-Score?

@@ -1,0 +1,32 @@
+Why we use Decision Tree rather than Logistic Regression?
+1. If you want to have multiple classification we use D.T but Logistic Regression can give one classification
+
+
+#Decision Tree
+#What is decision tree?
+
+@ you can classify multi classes using Decision Tree
+@ Model which is explainable
+
+Random Forest: Is not explainable
+RFA(Random Forest Accuracy) vs Decision accuracy difference
+
+RFA-Decision Tree = 3% to 8%
+
+Random Forest:
+
+Random Forest is an ensemble classifier made using many decision tree models.
+
+
+#gini index
+
+When you use decison tree vs Random Forest:
+1. When you want your model to be simple and explainable
+2. When you want non parameter Model.
+
+
+When to use Random Forest:
+If you want to have multiple classifications.
+
+
+@ regularisation -- to check your model is over fit or not.  To basically to remove over fitting

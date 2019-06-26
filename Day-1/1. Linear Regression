@@ -1,0 +1,32 @@
+Linear Regression:  is a technique to predict unknown variable(Dependent variable)
+from the known value of another variables( Independent Variable)
+
+y = mx+c
+
+Home price example
+
+Price vs Square Feet
+
+Dependent Variable: Price (Predicting unknown value)
+Independent variable: Square feet
+Regression Line:
+
+# if we have single dependent value, its fine
+# if we have multiple dependent values
+Age vs Immunity
+
+
+# Understand variables
+# talk with Domain Experts
+
+# Mean Square Error
+
+
+When to use LR?
+What is outcome of LR?
+
+#Important:
+
+Do you have cancer?
+
+Answer: yer or no #Logestic Regression

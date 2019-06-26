@@ -1,0 +1,12 @@
+#If your data is more the number of rows, we need to use SVM  (2000Rx5000)
+# @more categories than data
+
+https://www.geeksforgeeks.org/classifying-data-using-support-vector-machinessvms-in-python/
+
+
+
+Eager vs Lazy Learner
+
+Decision tree -- Eager Lerner
+
+Lazy Learner -- is not used for production generally

@@ -1,0 +1,28 @@
+#Naive Bayes Classifier
+
+Where to use Naive Bayes: If all the variables are independent we need to use Naive Bayes Classification
+
+
+
+
+#Confusion Matrix in Machine Learning
+
+https://www.geeksforgeeks.org/confusion-matrix-machine-learning/
+
+Classification Rate/Accuracy:
+Accuracy = (TP + TN) / (TP + TN + FP + FN)= (100+50) /(100+5+10+50)= 0.90
+
+Recall: Recall gives us an idea about when it’s actually yes, how often does it predict yes.
+Recall=TP / (TP + FN)=100/(100+5)=0.95
+
+Precision: Precsion tells us about when it predicts yes, how often is it correct.
+Precision = TP / (TP + FP)=100/ (100+10)=0.91
+
+F-measure: is a Harmonic Mean
+Fmeasure=(2*Recall*Precision)/(Recall+Precision)=(2*0.95*0.91)/(0.91+0.95)=0.92
+
+Harmonic Mean Formula: 2*(x)*(y)/(x+y)
+
+Here is a python script which demonstrates how to create a confusion matrix on a predicted model.For this, we have to import confusion matrix module from sklearn library which helps us to generate the confusion matrix.
+
+
